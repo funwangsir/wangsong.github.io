@@ -1,2 +1,2 @@
 #welcome
-##  [my web site](https://www.jianshu.com/u/16d77399d3a7 "wangsong")
+##  [疫情地图](https://www.mysoulmate.xyz "作者：wangsong")
