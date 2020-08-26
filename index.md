@@ -1,2 +1,2 @@
 #welcome
-##  [疫情地图](https://www.mysoulmate.xyz "作者：wangsong")
+##  [疫情地图](http://www.mysoulmate.xyz "作者：wangsong")
